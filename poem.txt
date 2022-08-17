@@ -8,5 +8,4 @@ red
 green
 unicorn
 yellow
-indigo
 these are the colors of the rainbow and the unicorn
